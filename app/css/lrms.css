@@ -1,0 +1,36 @@
+.modal .modal-dialog{
+	margin-top: 80px;
+}
+
+.valign-middle th, .valign-middle {
+	vertical-align: middle !important;
+	text-align: center;
+}
+
+.attendance-check input {
+	width: 100%;
+	border: 1px solid #ccc !important;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.attendance-checkbox, .grade-input {
+	display: none;
+}
+
+.login-box {
+	margin-right: 50px;
+}
+
+.login-box .login-box-body {
+	border-radius: 10px;
+	min-height: 500px;
+}
+
+.login-page {
+	background:url(../assets/img/bg.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
